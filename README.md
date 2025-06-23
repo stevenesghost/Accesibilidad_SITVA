@@ -1,3 +1,5 @@
+#python #networkx #geopandas #urbanmobility #accessibility #transportmodeling
+
 # 🗺️ Cálculo de Tiempos por Lote usando NetworkX – Proyecto SITVA
 
 Este proyecto implementa una metodología de cálculo de tiempos de desplazamiento desde cada lote del Valle de Aburrá hacia el sistema de transporte público (SITVA), mediante redes viales modeladas como grafos dirigidos en Python.
