@@ -30,7 +30,14 @@ Este proyecto implementa una metodología de cálculo de tiempos de desplazamien
 ## ⚙️ Cómo ejecutar
 
 ```bash
-git clone https://github.com/tu_usuario/calculo_tiempos_sitva.git
+git clone https://github.com/stevenesghost/Accesibilidad_SITVA.git
 cd calculo_tiempos_sitva
 pip install -r requirements.txt
 jupyter notebook notebooks/01_SITVA.ipynb
+```
+### 🖼️ Ejemplo de resultado
+![Mapa de tiempos de viaje desde lotes](output/indice_logistico_SITVA.png)
+
+📄 Licencia y Reconocimientos
+Este proyecto fue desarrollado en el marco de una consultoría técnica para el Observatorio DensURBAM — Línea de Naturaleza y Ciudad.
+Parte de la lógica y los datos empleados están sujetos a acuerdos de confidencialidad, por lo cual este repositorio incluye únicamente una versión adaptada para fines demostrativos y educativos.
